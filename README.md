@@ -17,7 +17,7 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 1. **Clone the repository or download the script**:
 
     ```bash
-    git clone https://github.com/Zlkcyber/aigaea-bot.git
+    git clone https://github.com/FlexRex69/aigaea-bot.git
     cd aigea-bot
     ```
 
@@ -51,6 +51,9 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
     After installing the dependencies and setting up the `proxy.txt` file, you can run the script using Node.js:
 
+    ```bash
+    screen -S aigaea-auto-bot
+    ```
     ```bash
     npm run start
     ```
