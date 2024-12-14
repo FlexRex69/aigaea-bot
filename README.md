@@ -52,7 +52,7 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
     After installing the dependencies and setting up the `proxy.txt` file, you can run the script using Node.js:
 
     ```bash
-    screen -S aigaea-auto-bot
+    screen -S aigea-bot
     ```
     ```bash
     npm run start
