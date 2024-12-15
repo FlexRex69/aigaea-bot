@@ -33,7 +33,7 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
 3. **Create the `proxy.txt` file**:
 
-    The proxy list will be saved to this file, put your proxy there.
+    The proxy list will be saved to this file, put your proxy there. Format: http://username:password@ip:port
 
 
 ## Access Token and first 8 browserID
